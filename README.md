@@ -1,17 +1,7 @@
 # TIL
 > Today I Learned
 
-### Example Repo  
-  
-This is an example repository that uses my GitHub Action
-[cflynn07/github-action-til-autoformat-readme][3]. This GitHub Action
-automatically generated this README.md based on the TILs in this repository.
-a test change. Second test change. Test 3.
----
-A collection of concrete writeups of small things I learn daily while working
-and researching. My goal is to work in public. I was inspired to start this
-repository after reading Simon Wilson's [Hacker News post][1], and he was
-apparently inspired by Josh Branchaud's [TIL collection][2].
+하루 공부한 내용을 작성하기!
 
 
 _13 TILs and counting..._
@@ -32,8 +22,8 @@ _13 TILs and counting..._
 - [20220720](202207/20220720.md)
 - [20220721](202207/20220721.md)
 - [20220722](202207/20220722.md)
-- [# 쿠버네티스 공부](202207/20220723.md)
-- [# 싸피 과제 하기](202207/20220724.md)
+- [20220723](202207/20220723.md)
+- [20220724](202207/20220724.md)
 - [20220725](202207/20220725.md)
 - [20220726](202207/20220726.md)
 - [20220727](202207/20220727.md)
