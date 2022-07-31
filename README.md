@@ -4,13 +4,13 @@
 하루 공부한 내용을 작성하기!
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [20220729](202207/20220729.md) - Sat Jul 30 15:52:28 2022 +0900
+- [20220731](202207/20220731.md) - Sun Jul 31 23:28:02 2022 +0900
 - [20220730](202207/20220730.md) - Sat Jul 30 15:52:28 2022 +0900
 
 ### Categories
@@ -30,6 +30,7 @@ _13 TILs and counting..._
 - [20220728](202207/20220728.md)
 - [20220729](202207/20220729.md)
 - [20220730](202207/20220730.md)
+- [20220731](202207/20220731.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
