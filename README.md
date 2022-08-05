@@ -4,7 +4,7 @@
 하루 공부한 내용을 작성하기!
 
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -37,6 +37,7 @@ _17 TILs and counting..._
 - [20220801](202208/20220801.md)
 - [20220802](202208/20220802.md)
 - [20220803](202208/20220803.md)
+- [20220805](202208/20220805.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
